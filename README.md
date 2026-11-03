@@ -7,7 +7,7 @@ Automação para extração, tratamento e análise de respostas de pesquisas de 
 ## Demonstração
 
 - **[Acessar o formulário de teste](https://docs.google.com/forms/d/e/1FAIpQLSeJq8QiiPLqBd60Ol_4ELbnXWYmc4K0GjHru9GtKvWVepFFfQ/viewform?usp=dialog)**
-- **[Visualizar exemplo de relatório gerado](docs/EXEMPLO_DE_ANALISE.docx)**
+- **[Visualizar exemplo de relatório gerado](https://github.com/V-S-Rodrigues/climate-surveys-analysis-automation/blob/6bdb554f0c39c6c30010e63275c1428e9878424b/exemploderelatorio.docx)**
 
 O documento de exemplo foi produzido com dados sintéticos para demonstrar a estrutura e a apresentação dos resultados. Ele não contém respostas reais de colaboradores.
 
